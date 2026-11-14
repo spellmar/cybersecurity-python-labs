@@ -1,17 +1,19 @@
 """Модуль реалізації моделей користувачів, безпечних сесій та аудиту (Завдання 1)."""
 
-from dataclasses import dataclass, field
-from datetime import datetime, timedelta, timezone
 import hashlib
 import hmac
 import os
 import re
+from dataclasses import dataclass, field
+from datetime import UTC, datetime, timedelta
 from typing import Any
 
 PBKDF2_ITERATIONS = 100_000
 SALT_BYTES = 16
 SESSION_TIMEOUT_SEC = 900
-EMAIL_PATTERN = re.compile(r"^[A-Za-z][A-Za-z0-9._-]{2,63}@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$")
+EMAIL_PATTERN = re.compile(
+    r"^[A-Za-z][A-Za-z0-9._-]{2,63}@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$"
+)
 
 
 class User:
@@ -29,7 +31,7 @@ class User:
         if not username or not isinstance(username, str):
             raise ValueError("Ім'я користувача має бути непорожнім рядком.")
         self.username: str = username
-        self.email = email  # Виклик сеттера @property для валідації
+        self.email = email
         self.role: str = role
         self.active: bool = active
         self.__password_salt: bytes = b""
@@ -79,7 +81,10 @@ class User:
     def __str__(self) -> str:
         """Повертає рядкове представлення користувача без конфіденційних даних."""
         status = "active" if self.active else "inactive"
-        return f"User(username='{self.username}', email='{self.email}', role='{self.role}', status={status})"
+        return (
+            f"User(username='{self.username}', email='{self.email}', "
+            f"role='{self.role}', status={status})"
+        )
 
 
 class Admin(User):
@@ -101,7 +106,9 @@ class Admin(User):
             role="admin",
             active=active,
         )
-        self.permissions: set[str] = set(permissions) if permissions is not None else set()
+        self.permissions: set[str] = (
+            set(permissions) if permissions is not None else set()
+        )
 
     def grant_permission(self, permission: str) -> None:
         """Надає адміністратору вказаний дозвіл."""
@@ -134,20 +141,22 @@ class Session:
         last_activity: datetime | None = None,
     ) -> None:
         """Ініціалізує сеанс із мітками часу в UTC."""
-        now = datetime.now(timezone.utc)
+        now = datetime.now(UTC)
         self.ip: str = ip
         self.login_time: datetime = login_time if login_time is not None else now
-        self.last_activity: datetime = last_activity if last_activity is not None else self.login_time
+        self.last_activity: datetime = (
+            last_activity if last_activity is not None else self.login_time
+        )
 
     def touch(self) -> None:
         """Оновлює час останньої активності поточним часом UTC."""
-        self.last_activity = datetime.now(timezone.utc)
+        self.last_activity = datetime.now(UTC)
 
     def is_active(self, timeout_sec: int = SESSION_TIMEOUT_SEC) -> bool:
         """Перевіряє, чи не перевищено час неактивності сеансу."""
         if not isinstance(timeout_sec, int) or timeout_sec <= 0:
             raise ValueError("Таймаут сеансу має бути додатним цілим числом.")
-        now = datetime.now(timezone.utc)
+        now = datetime.now(UTC)
         return (now - self.last_activity) <= timedelta(seconds=timeout_sec)
 
 
@@ -157,7 +166,7 @@ class AuditEntry:
 
     username: str
     action: str
-    timestamp: datetime = field(default_factory=lambda: datetime.now(timezone.utc))
+    timestamp: datetime = field(default_factory=lambda: datetime.now(UTC))
 
     def __str__(self) -> str:
         """Форматує запис аудиту для виведення."""
@@ -188,7 +197,7 @@ class AuditLog:
 class UserAccount:
     """Обліковий запис, що поєднує користувача, сесію та журнал аудиту (композиція)."""
 
-    _ALLOWED_KEYS = {"user", "session", "audit_log"}
+    _ALLOWED_KEYS = ("user", "session", "audit_log")
 
     def __init__(
         self,
@@ -246,7 +255,9 @@ class UserAccount:
             self.user = value
         elif key == "session":
             if value is not None and not isinstance(value, Session):
-                raise TypeError("Значення для 'session' має бути об'єктом Session або None.")
+                raise TypeError(
+                    "Значення для 'session' має бути об'єктом Session або None."
+                )
             self.session = value
         elif key == "audit_log":
             if not isinstance(value, AuditLog):

@@ -1,12 +1,14 @@
 """Консольна утиліта аналізу логів автентифікації SSH (Варіант 4)."""
 
+import json
+import logging
+import re
 from collections import defaultdict, deque
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta
-import json
-import logging
 from pathlib import Path
-import re
+
+logger = logging.getLogger(__name__)
 
 LOG_PATTERN = re.compile(
     r"^(?P<month>[A-Z][a-z]{2})\s+(?P<day>\d{1,2})\s+(?P<time>\d{2}:\d{2}:\d{2})\s+"
@@ -97,10 +99,11 @@ def detect_bruteforce(
 
         for item in ip_events:
             sliding_window.append(item.timestamp)
-            while sliding_window and (item.timestamp - sliding_window[0]) > window_delta:
+            while (
+                sliding_window and (item.timestamp - sliding_window[0]) > window_delta
+            ):
                 sliding_window.popleft()
-            if len(sliding_window) > max_in_window:
-                max_in_window = len(sliding_window)
+            max_in_window = max(max_in_window, len(sliding_window))
 
         if max_in_window > threshold or len(ip_events) > threshold:
             target_users = sorted({item.username for item in ip_events})
@@ -127,15 +130,17 @@ def run_analysis(
     output_json: Path | None = None,
 ) -> list[BruteforceAlert]:
     """Виконує повний цикл аналізу SSH-логу, виводить звіт та експортує JSON."""
-    logging.info("Analyzing authentication events in %s...", auth_log)
+    logger.info("Analyzing authentication events in %s...", auth_log)
     events, total_lines = parse_auth_log(auth_log)
 
     if events:
         start_ts = min(e.timestamp for e in events).strftime("%Y-%m-%d %H:%M:%S")
         end_ts = max(e.timestamp for e in events).strftime("%Y-%m-%d %H:%M:%S")
-        logging.info("Processed %d lines (Time range: %s - %s)", total_lines, start_ts, end_ts)
+        logger.info(
+            "Processed %d lines (Time range: %s - %s)", total_lines, start_ts, end_ts
+        )
     else:
-        logging.info("Processed %d lines (No valid SSH auth events found)", total_lines)
+        logger.info("Processed %d lines (No valid SSH auth events found)", total_lines)
 
     alerts = detect_bruteforce(events, threshold=threshold, window_min=window_min)
 
@@ -147,7 +152,7 @@ def run_analysis(
     else:
         for alert in alerts:
             users_str = ", ".join(alert.target_users)
-            logging.error(
+            logger.error(
                 "Bruteforce Detected! IP: %s | Total Failures: %d | Max in %d min: %d | Target Users: %s",
                 alert.ip,
                 alert.total_failures,
@@ -177,6 +182,6 @@ def run_analysis(
         }
         with output_json.open("w", encoding="utf-8") as out_file:
             json.dump(report_data, out_file, indent=4, ensure_ascii=False)
-        logging.info("Exported blocklist to %s", output_json)
+        logger.info("Exported blocklist to %s", output_json)
 
     return alerts
