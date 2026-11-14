@@ -1,0 +1,23 @@
+{
+    "source_log": "labs\\lab02\\data\\data_v04\\auth.log",
+    "threshold": 5,
+    "window_minutes": 5,
+    "total_lines_processed": 20,
+    "matched_events": 20,
+    "blocklist_ips": [
+        "203.0.113.77"
+    ],
+    "alerts": [
+        {
+            "ip": "203.0.113.77",
+            "total_failures": 7,
+            "max_in_window": 7,
+            "window_minutes": 5,
+            "target_users": [
+                "admin"
+            ],
+            "first_seen": "2026-09-27 14:00:00",
+            "last_seen": "2026-09-27 14:03:30"
+        }
+    ]
+}

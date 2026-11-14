@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labs\\lab01\\data\\users.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\data\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labs\\lab01\\data\\log.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\task3.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labs\\lab01\\task3.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\task2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labs\\lab01\\task2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\task1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labs\\lab01\\task1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labs\\lab01\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\shared\\student.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shared\\student.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\shared\\__init__.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shared\\__init__.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\__init__.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labs\\lab01\\__init__.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAALQAAAAAAAAAAAAYwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-07T20:54:42.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users.csv",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\data\\users.csv",
+              "RelativeDocumentMoniker": "labs\\lab01\\data\\users.csv",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\data\\users.csv",
+              "RelativeToolTip": "labs\\lab01\\data\\users.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-11-07T20:15:17.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log.json",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\data\\log.json",
+              "RelativeDocumentMoniker": "labs\\lab01\\data\\log.json",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\data\\log.json",
+              "RelativeToolTip": "labs\\lab01\\data\\log.json",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-07T20:12:26.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T22:44:26.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "__init__.py",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\shared\\__init__.py",
+              "RelativeDocumentMoniker": "shared\\__init__.py",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\shared\\__init__.py",
+              "RelativeToolTip": "shared\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQpSURBVFhHvVZRSFtnFP7\u002B/8b15iZpQmnX1PXBQkbjsCxCOiiE4t50MNjwQXzSvow87KEPgmF7UIvV7cmBA4UFtG8K\u002BuTDBnPYkRRhY\u002Bwhs6YuIZlLW1vDzNQl3tt7c/YQE3NvrhKr9YPDzf3\u002B89/v5Jzzn3sZotsBgA8A8OCEEKAlrEL\u002B/u6tKw\u002BNa6YgIobo7u8AfMa140JgRUisACsvQBIKH6ZvNtcVBD9tcRvPw8byU20rS3ajnxkYortkJI8Do7jEStethr/w51vrRvc/wOgurn/5U5ng\u002BvXj4TBxiRfwbtGBSyQat7SA2DfVxGsHcJS4xAqQeB63NQcawIxbW6pvDi9BoK4S1o/4yMFv7xeVqF47A6eFMwvgHMwTXVcAqVSqYrFYDGNjYxDFUoO53W5MTU0hlUphZ2cHkUgEfr/f\u002BAh0W14YKaDeAJqamrC4uIjBwUGEw2EEg0GMjo7CbrdjaWkJ7e3tmJycRDAYhKqqWF5ehs\u002BnHy\u002BfNDzF\u002B0JOx5UQ3SVTAypGRNTT01O5j0QiFIlEaGBggIiIvF5vZU0URZqYmND5A6Af/\u002B6gufUOsq/dW6mWr\u002BsUEBHC4TCi0Si8Xi/6\u002BvowPDwMv98Pj8eD5uZm3VYzPMq0QeIFpCF\u002B/2njzx\u002BV\u002BbpKAACBQAC9vb3w\u002BXwIhUIYGhpCJpOBy\u002BUyuppC4qXZcFN42rG1ebXtYMWY\u002BuguCY\u002B2jyxB2bq6uoiIqLOzs8K53W5aXV2l/v5\u002Bne\u002BTjRuUeeGhfzbfoVzWnXr58pIdZhkoT7h6MD8/j7m5OczMzGBhYQHj4\u002BOIxWKw2\u002B2YnZ3V\u002BdpYARIvgEMDCE0NEEZhDKB6vFZjenoayWRSxwGAqqro7u5GKBSCKIrweDwIh8NobW1FOp3W\u002BVbE98EYPt/adLdVmtA421MfvFe9/8TIbbqNFAA85DARr7cEp4DbXGDFrFHcxvNGxzcFziW\u002B12flBdX4Sj0r8J1bbz84j3\u002BvSdj7ysbz2fL7/Kyg\u002B1poePz13atwjF3XrPjhxp0KT2Q\u002BLAGAsZoPDlMc0oT6Y6gJ6si2ZQNrYryaBmPsUDspdAEUiVllEiCTUE2/UdRMQpkEyDi7APQ5jI8QADiYAidT4GQynFwuXavsmvAfWoQtNPEcbIYJd1zUZAAAZLJARikT5ZKUMyNDwPOiiF/VC4iol7Gu2aGaP6YOMMV0pwJeIypDgEICFLJA2edzdA4r2kX88uoKMpoDr44bSBEPDt1RmwEL9mCemQIs2CAb0poL2aIExayJibaJECNggYi\u002BJaDNdfn5Z/oeeDKigQ7\u002BRqnmClwmfVDbGwqcXM45ISecXE44\u002BF6CE4\u002BDF5NMFhLnG59ldVr70Afw\u002BP534OwOUDoGItMqAq4D4W0nk9dckBMOriScTIm7mJK8yHcSHzf\u002BZipyFP4HmX4dW\u002BYtA14AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-11-01T22:46:20.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "student.py",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\shared\\student.py",
+              "RelativeDocumentMoniker": "shared\\student.py",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\shared\\student.py",
+              "RelativeToolTip": "shared\\student.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQpSURBVFhHvVZRSFtnFP7\u002B/8b15iZpQmnX1PXBQkbjsCxCOiiE4t50MNjwQXzSvow87KEPgmF7UIvV7cmBA4UFtG8K\u002BuTDBnPYkRRhY\u002Bwhs6YuIZlLW1vDzNQl3tt7c/YQE3NvrhKr9YPDzf3\u002B89/v5Jzzn3sZotsBgA8A8OCEEKAlrEL\u002B/u6tKw\u002BNa6YgIobo7u8AfMa140JgRUisACsvQBIKH6ZvNtcVBD9tcRvPw8byU20rS3ajnxkYortkJI8Do7jEStethr/w51vrRvc/wOgurn/5U5ng\u002BvXj4TBxiRfwbtGBSyQat7SA2DfVxGsHcJS4xAqQeB63NQcawIxbW6pvDi9BoK4S1o/4yMFv7xeVqF47A6eFMwvgHMwTXVcAqVSqYrFYDGNjYxDFUoO53W5MTU0hlUphZ2cHkUgEfr/f\u002BAh0W14YKaDeAJqamrC4uIjBwUGEw2EEg0GMjo7CbrdjaWkJ7e3tmJycRDAYhKqqWF5ehs\u002BnHy\u002BfNDzF\u002B0JOx5UQ3SVTAypGRNTT01O5j0QiFIlEaGBggIiIvF5vZU0URZqYmND5A6Af/\u002B6gufUOsq/dW6mWr\u002BsUEBHC4TCi0Si8Xi/6\u002BvowPDwMv98Pj8eD5uZm3VYzPMq0QeIFpCF\u002B/2njzx\u002BV\u002BbpKAACBQAC9vb3w\u002BXwIhUIYGhpCJpOBy\u002BUyuppC4qXZcFN42rG1ebXtYMWY\u002BuguCY\u002B2jyxB2bq6uoiIqLOzs8K53W5aXV2l/v5\u002Bne\u002BTjRuUeeGhfzbfoVzWnXr58pIdZhkoT7h6MD8/j7m5OczMzGBhYQHj4\u002BOIxWKw2\u002B2YnZ3V\u002BdpYARIvgEMDCE0NEEZhDKB6vFZjenoayWRSxwGAqqro7u5GKBSCKIrweDwIh8NobW1FOp3W\u002BVbE98EYPt/adLdVmtA421MfvFe9/8TIbbqNFAA85DARr7cEp4DbXGDFrFHcxvNGxzcFziW\u002B12flBdX4Sj0r8J1bbz84j3\u002BvSdj7ysbz2fL7/Kyg\u002B1poePz13atwjF3XrPjhxp0KT2Q\u002BLAGAsZoPDlMc0oT6Y6gJ6si2ZQNrYryaBmPsUDspdAEUiVllEiCTUE2/UdRMQpkEyDi7APQ5jI8QADiYAidT4GQynFwuXavsmvAfWoQtNPEcbIYJd1zUZAAAZLJARikT5ZKUMyNDwPOiiF/VC4iol7Gu2aGaP6YOMMV0pwJeIypDgEICFLJA2edzdA4r2kX88uoKMpoDr44bSBEPDt1RmwEL9mCemQIs2CAb0poL2aIExayJibaJECNggYi\u002BJaDNdfn5Z/oeeDKigQ7\u002BRqnmClwmfVDbGwqcXM45ISecXE44\u002BF6CE4\u002BDF5NMFhLnG59ldVr70Afw\u002BP534OwOUDoGItMqAq4D4W0nk9dckBMOriScTIm7mJK8yHcSHzf\u002BZipyFP4HmX4dW\u002BYtA14AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-11-01T22:46:40.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\main.py",
+              "RelativeDocumentMoniker": "labs\\lab01\\main.py",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\main.py",
+              "RelativeToolTip": "labs\\lab01\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQpSURBVFhHvVZRSFtnFP7\u002B/8b15iZpQmnX1PXBQkbjsCxCOiiE4t50MNjwQXzSvow87KEPgmF7UIvV7cmBA4UFtG8K\u002BuTDBnPYkRRhY\u002Bwhs6YuIZlLW1vDzNQl3tt7c/YQE3NvrhKr9YPDzf3\u002B89/v5Jzzn3sZotsBgA8A8OCEEKAlrEL\u002B/u6tKw\u002BNa6YgIobo7u8AfMa140JgRUisACsvQBIKH6ZvNtcVBD9tcRvPw8byU20rS3ajnxkYortkJI8Do7jEStethr/w51vrRvc/wOgurn/5U5ng\u002BvXj4TBxiRfwbtGBSyQat7SA2DfVxGsHcJS4xAqQeB63NQcawIxbW6pvDi9BoK4S1o/4yMFv7xeVqF47A6eFMwvgHMwTXVcAqVSqYrFYDGNjYxDFUoO53W5MTU0hlUphZ2cHkUgEfr/f\u002BAh0W14YKaDeAJqamrC4uIjBwUGEw2EEg0GMjo7CbrdjaWkJ7e3tmJycRDAYhKqqWF5ehs\u002BnHy\u002BfNDzF\u002B0JOx5UQ3SVTAypGRNTT01O5j0QiFIlEaGBggIiIvF5vZU0URZqYmND5A6Af/\u002B6gufUOsq/dW6mWr\u002BsUEBHC4TCi0Si8Xi/6\u002BvowPDwMv98Pj8eD5uZm3VYzPMq0QeIFpCF\u002B/2njzx\u002BV\u002BbpKAACBQAC9vb3w\u002BXwIhUIYGhpCJpOBy\u002BUyuppC4qXZcFN42rG1ebXtYMWY\u002BuguCY\u002B2jyxB2bq6uoiIqLOzs8K53W5aXV2l/v5\u002Bne\u002BTjRuUeeGhfzbfoVzWnXr58pIdZhkoT7h6MD8/j7m5OczMzGBhYQHj4\u002BOIxWKw2\u002B2YnZ3V\u002BdpYARIvgEMDCE0NEEZhDKB6vFZjenoayWRSxwGAqqro7u5GKBSCKIrweDwIh8NobW1FOp3W\u002BVbE98EYPt/adLdVmtA421MfvFe9/8TIbbqNFAA85DARr7cEp4DbXGDFrFHcxvNGxzcFziW\u002B12flBdX4Sj0r8J1bbz84j3\u002BvSdj7ysbz2fL7/Kyg\u002B1poePz13atwjF3XrPjhxp0KT2Q\u002BLAGAsZoPDlMc0oT6Y6gJ6si2ZQNrYryaBmPsUDspdAEUiVllEiCTUE2/UdRMQpkEyDi7APQ5jI8QADiYAidT4GQynFwuXavsmvAfWoQtNPEcbIYJd1zUZAAAZLJARikT5ZKUMyNDwPOiiF/VC4iol7Gu2aGaP6YOMMV0pwJeIypDgEICFLJA2edzdA4r2kX88uoKMpoDr44bSBEPDt1RmwEL9mCemQIs2CAb0poL2aIExayJibaJECNggYi\u002BJaDNdfn5Z/oeeDKigQ7\u002BRqnmClwmfVDbGwqcXM45ISecXE44\u002BF6CE4\u002BDF5NMFhLnG59ldVr70Afw\u002BP534OwOUDoGItMqAq4D4W0nk9dckBMOriScTIm7mJK8yHcSHzf\u002BZipyFP4HmX4dW\u002BYtA14AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-11-01T22:43:14.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "task1.py",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\task1.py",
+              "RelativeDocumentMoniker": "labs\\lab01\\task1.py",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\task1.py",
+              "RelativeToolTip": "labs\\lab01\\task1.py",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAxwCsAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQpSURBVFhHvVZRSFtnFP7\u002B/8b15iZpQmnX1PXBQkbjsCxCOiiE4t50MNjwQXzSvow87KEPgmF7UIvV7cmBA4UFtG8K\u002BuTDBnPYkRRhY\u002Bwhs6YuIZlLW1vDzNQl3tt7c/YQE3NvrhKr9YPDzf3\u002B89/v5Jzzn3sZotsBgA8A8OCEEKAlrEL\u002B/u6tKw\u002BNa6YgIobo7u8AfMa140JgRUisACsvQBIKH6ZvNtcVBD9tcRvPw8byU20rS3ajnxkYortkJI8Do7jEStethr/w51vrRvc/wOgurn/5U5ng\u002BvXj4TBxiRfwbtGBSyQat7SA2DfVxGsHcJS4xAqQeB63NQcawIxbW6pvDi9BoK4S1o/4yMFv7xeVqF47A6eFMwvgHMwTXVcAqVSqYrFYDGNjYxDFUoO53W5MTU0hlUphZ2cHkUgEfr/f\u002BAh0W14YKaDeAJqamrC4uIjBwUGEw2EEg0GMjo7CbrdjaWkJ7e3tmJycRDAYhKqqWF5ehs\u002BnHy\u002BfNDzF\u002B0JOx5UQ3SVTAypGRNTT01O5j0QiFIlEaGBggIiIvF5vZU0URZqYmND5A6Af/\u002B6gufUOsq/dW6mWr\u002BsUEBHC4TCi0Si8Xi/6\u002BvowPDwMv98Pj8eD5uZm3VYzPMq0QeIFpCF\u002B/2njzx\u002BV\u002BbpKAACBQAC9vb3w\u002BXwIhUIYGhpCJpOBy\u002BUyuppC4qXZcFN42rG1ebXtYMWY\u002BuguCY\u002B2jyxB2bq6uoiIqLOzs8K53W5aXV2l/v5\u002Bne\u002BTjRuUeeGhfzbfoVzWnXr58pIdZhkoT7h6MD8/j7m5OczMzGBhYQHj4\u002BOIxWKw2\u002B2YnZ3V\u002BdpYARIvgEMDCE0NEEZhDKB6vFZjenoayWRSxwGAqqro7u5GKBSCKIrweDwIh8NobW1FOp3W\u002BVbE98EYPt/adLdVmtA421MfvFe9/8TIbbqNFAA85DARr7cEp4DbXGDFrFHcxvNGxzcFziW\u002B12flBdX4Sj0r8J1bbz84j3\u002BvSdj7ysbz2fL7/Kyg\u002B1poePz13atwjF3XrPjhxp0KT2Q\u002BLAGAsZoPDlMc0oT6Y6gJ6si2ZQNrYryaBmPsUDspdAEUiVllEiCTUE2/UdRMQpkEyDi7APQ5jI8QADiYAidT4GQynFwuXavsmvAfWoQtNPEcbIYJd1zUZAAAZLJARikT5ZKUMyNDwPOiiF/VC4iol7Gu2aGaP6YOMMV0pwJeIypDgEICFLJA2edzdA4r2kX88uoKMpoDr44bSBEPDt1RmwEL9mCemQIs2CAb0poL2aIExayJibaJECNggYi\u002BJaDNdfn5Z/oeeDKigQ7\u002BRqnmClwmfVDbGwqcXM45ISecXE44\u002BF6CE4\u002BDF5NMFhLnG59ldVr70Afw\u002BP534OwOUDoGItMqAq4D4W0nk9dckBMOriScTIm7mJK8yHcSHzf\u002BZipyFP4HmX4dW\u002BYtA14AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-11-01T22:42:15.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task2.py",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\task2.py",
+              "RelativeDocumentMoniker": "labs\\lab01\\task2.py",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\task2.py",
+              "RelativeToolTip": "labs\\lab01\\task2.py",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQpSURBVFhHvVZRSFtnFP7\u002B/8b15iZpQmnX1PXBQkbjsCxCOiiE4t50MNjwQXzSvow87KEPgmF7UIvV7cmBA4UFtG8K\u002BuTDBnPYkRRhY\u002Bwhs6YuIZlLW1vDzNQl3tt7c/YQE3NvrhKr9YPDzf3\u002B89/v5Jzzn3sZotsBgA8A8OCEEKAlrEL\u002B/u6tKw\u002BNa6YgIobo7u8AfMa140JgRUisACsvQBIKH6ZvNtcVBD9tcRvPw8byU20rS3ajnxkYortkJI8Do7jEStethr/w51vrRvc/wOgurn/5U5ng\u002BvXj4TBxiRfwbtGBSyQat7SA2DfVxGsHcJS4xAqQeB63NQcawIxbW6pvDi9BoK4S1o/4yMFv7xeVqF47A6eFMwvgHMwTXVcAqVSqYrFYDGNjYxDFUoO53W5MTU0hlUphZ2cHkUgEfr/f\u002BAh0W14YKaDeAJqamrC4uIjBwUGEw2EEg0GMjo7CbrdjaWkJ7e3tmJycRDAYhKqqWF5ehs\u002BnHy\u002BfNDzF\u002B0JOx5UQ3SVTAypGRNTT01O5j0QiFIlEaGBggIiIvF5vZU0URZqYmND5A6Af/\u002B6gufUOsq/dW6mWr\u002BsUEBHC4TCi0Si8Xi/6\u002BvowPDwMv98Pj8eD5uZm3VYzPMq0QeIFpCF\u002B/2njzx\u002BV\u002BbpKAACBQAC9vb3w\u002BXwIhUIYGhpCJpOBy\u002BUyuppC4qXZcFN42rG1ebXtYMWY\u002BuguCY\u002B2jyxB2bq6uoiIqLOzs8K53W5aXV2l/v5\u002Bne\u002BTjRuUeeGhfzbfoVzWnXr58pIdZhkoT7h6MD8/j7m5OczMzGBhYQHj4\u002BOIxWKw2\u002B2YnZ3V\u002BdpYARIvgEMDCE0NEEZhDKB6vFZjenoayWRSxwGAqqro7u5GKBSCKIrweDwIh8NobW1FOp3W\u002BVbE98EYPt/adLdVmtA421MfvFe9/8TIbbqNFAA85DARr7cEp4DbXGDFrFHcxvNGxzcFziW\u002B12flBdX4Sj0r8J1bbz84j3\u002BvSdj7ysbz2fL7/Kyg\u002B1poePz13atwjF3XrPjhxp0KT2Q\u002BLAGAsZoPDlMc0oT6Y6gJ6si2ZQNrYryaBmPsUDspdAEUiVllEiCTUE2/UdRMQpkEyDi7APQ5jI8QADiYAidT4GQynFwuXavsmvAfWoQtNPEcbIYJd1zUZAAAZLJARikT5ZKUMyNDwPOiiF/VC4iol7Gu2aGaP6YOMMV0pwJeIypDgEICFLJA2edzdA4r2kX88uoKMpoDr44bSBEPDt1RmwEL9mCemQIs2CAb0poL2aIExayJibaJECNggYi\u002BJaDNdfn5Z/oeeDKigQ7\u002BRqnmClwmfVDbGwqcXM45ISecXE44\u002BF6CE4\u002BDF5NMFhLnG59ldVr70Afw\u002BP534OwOUDoGItMqAq4D4W0nk9dckBMOriScTIm7mJK8yHcSHzf\u002BZipyFP4HmX4dW\u002BYtA14AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-11-01T22:42:25.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task3.py",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\task3.py",
+              "RelativeDocumentMoniker": "labs\\lab01\\task3.py",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\task3.py",
+              "RelativeToolTip": "labs\\lab01\\task3.py",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAowKkAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQpSURBVFhHvVZRSFtnFP7\u002B/8b15iZpQmnX1PXBQkbjsCxCOiiE4t50MNjwQXzSvow87KEPgmF7UIvV7cmBA4UFtG8K\u002BuTDBnPYkRRhY\u002Bwhs6YuIZlLW1vDzNQl3tt7c/YQE3NvrhKr9YPDzf3\u002B89/v5Jzzn3sZotsBgA8A8OCEEKAlrEL\u002B/u6tKw\u002BNa6YgIobo7u8AfMa140JgRUisACsvQBIKH6ZvNtcVBD9tcRvPw8byU20rS3ajnxkYortkJI8Do7jEStethr/w51vrRvc/wOgurn/5U5ng\u002BvXj4TBxiRfwbtGBSyQat7SA2DfVxGsHcJS4xAqQeB63NQcawIxbW6pvDi9BoK4S1o/4yMFv7xeVqF47A6eFMwvgHMwTXVcAqVSqYrFYDGNjYxDFUoO53W5MTU0hlUphZ2cHkUgEfr/f\u002BAh0W14YKaDeAJqamrC4uIjBwUGEw2EEg0GMjo7CbrdjaWkJ7e3tmJycRDAYhKqqWF5ehs\u002BnHy\u002BfNDzF\u002B0JOx5UQ3SVTAypGRNTT01O5j0QiFIlEaGBggIiIvF5vZU0URZqYmND5A6Af/\u002B6gufUOsq/dW6mWr\u002BsUEBHC4TCi0Si8Xi/6\u002BvowPDwMv98Pj8eD5uZm3VYzPMq0QeIFpCF\u002B/2njzx\u002BV\u002BbpKAACBQAC9vb3w\u002BXwIhUIYGhpCJpOBy\u002BUyuppC4qXZcFN42rG1ebXtYMWY\u002BuguCY\u002B2jyxB2bq6uoiIqLOzs8K53W5aXV2l/v5\u002Bne\u002BTjRuUeeGhfzbfoVzWnXr58pIdZhkoT7h6MD8/j7m5OczMzGBhYQHj4\u002BOIxWKw2\u002B2YnZ3V\u002BdpYARIvgEMDCE0NEEZhDKB6vFZjenoayWRSxwGAqqro7u5GKBSCKIrweDwIh8NobW1FOp3W\u002BVbE98EYPt/adLdVmtA421MfvFe9/8TIbbqNFAA85DARr7cEp4DbXGDFrFHcxvNGxzcFziW\u002B12flBdX4Sj0r8J1bbz84j3\u002BvSdj7ysbz2fL7/Kyg\u002B1poePz13atwjF3XrPjhxp0KT2Q\u002BLAGAsZoPDlMc0oT6Y6gJ6si2ZQNrYryaBmPsUDspdAEUiVllEiCTUE2/UdRMQpkEyDi7APQ5jI8QADiYAidT4GQynFwuXavsmvAfWoQtNPEcbIYJd1zUZAAAZLJARikT5ZKUMyNDwPOiiF/VC4iol7Gu2aGaP6YOMMV0pwJeIypDgEICFLJA2edzdA4r2kX88uoKMpoDr44bSBEPDt1RmwEL9mCemQIs2CAb0poL2aIExayJibaJECNggYi\u002BJaDNdfn5Z/oeeDKigQ7\u002BRqnmClwmfVDbGwqcXM45ISecXE44\u002BF6CE4\u002BDF5NMFhLnG59ldVr70Afw\u002BP534OwOUDoGItMqAq4D4W0nk9dckBMOriScTIm7mJK8yHcSHzf\u002BZipyFP4HmX4dW\u002BYtA14AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-11-01T22:43:04.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "__init__.py",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\__init__.py",
+              "RelativeDocumentMoniker": "labs\\lab01\\__init__.py",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\cybersecurity-python-labs\\labs\\lab01\\__init__.py",
+              "RelativeToolTip": "labs\\lab01\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQpSURBVFhHvVZRSFtnFP7\u002B/8b15iZpQmnX1PXBQkbjsCxCOiiE4t50MNjwQXzSvow87KEPgmF7UIvV7cmBA4UFtG8K\u002BuTDBnPYkRRhY\u002Bwhs6YuIZlLW1vDzNQl3tt7c/YQE3NvrhKr9YPDzf3\u002B89/v5Jzzn3sZotsBgA8A8OCEEKAlrEL\u002B/u6tKw\u002BNa6YgIobo7u8AfMa140JgRUisACsvQBIKH6ZvNtcVBD9tcRvPw8byU20rS3ajnxkYortkJI8Do7jEStethr/w51vrRvc/wOgurn/5U5ng\u002BvXj4TBxiRfwbtGBSyQat7SA2DfVxGsHcJS4xAqQeB63NQcawIxbW6pvDi9BoK4S1o/4yMFv7xeVqF47A6eFMwvgHMwTXVcAqVSqYrFYDGNjYxDFUoO53W5MTU0hlUphZ2cHkUgEfr/f\u002BAh0W14YKaDeAJqamrC4uIjBwUGEw2EEg0GMjo7CbrdjaWkJ7e3tmJycRDAYhKqqWF5ehs\u002BnHy\u002BfNDzF\u002B0JOx5UQ3SVTAypGRNTT01O5j0QiFIlEaGBggIiIvF5vZU0URZqYmND5A6Af/\u002B6gufUOsq/dW6mWr\u002BsUEBHC4TCi0Si8Xi/6\u002BvowPDwMv98Pj8eD5uZm3VYzPMq0QeIFpCF\u002B/2njzx\u002BV\u002BbpKAACBQAC9vb3w\u002BXwIhUIYGhpCJpOBy\u002BUyuppC4qXZcFN42rG1ebXtYMWY\u002BuguCY\u002B2jyxB2bq6uoiIqLOzs8K53W5aXV2l/v5\u002Bne\u002BTjRuUeeGhfzbfoVzWnXr58pIdZhkoT7h6MD8/j7m5OczMzGBhYQHj4\u002BOIxWKw2\u002B2YnZ3V\u002BdpYARIvgEMDCE0NEEZhDKB6vFZjenoayWRSxwGAqqro7u5GKBSCKIrweDwIh8NobW1FOp3W\u002BVbE98EYPt/adLdVmtA421MfvFe9/8TIbbqNFAA85DARr7cEp4DbXGDFrFHcxvNGxzcFziW\u002B12flBdX4Sj0r8J1bbz84j3\u002BvSdj7ysbz2fL7/Kyg\u002B1poePz13atwjF3XrPjhxp0KT2Q\u002BLAGAsZoPDlMc0oT6Y6gJ6si2ZQNrYryaBmPsUDspdAEUiVllEiCTUE2/UdRMQpkEyDi7APQ5jI8QADiYAidT4GQynFwuXavsmvAfWoQtNPEcbIYJd1zUZAAAZLJARikT5ZKUMyNDwPOiiF/VC4iol7Gu2aGaP6YOMMV0pwJeIypDgEICFLJA2edzdA4r2kX88uoKMpoDr44bSBEPDt1RmwEL9mCemQIs2CAb0poL2aIExayJibaJECNggYi\u002BJaDNdfn5Z/oeeDKigQ7\u002BRqnmClwmfVDbGwqcXM45ISecXE44\u002BF6CE4\u002BDF5NMFhLnG59ldVr70Afw\u002BP534OwOUDoGItMqAq4D4W0nk9dckBMOriScTIm7mJK8yHcSHzf\u002BZipyFP4HmX4dW\u002BYtA14AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-11-01T22:42:02.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

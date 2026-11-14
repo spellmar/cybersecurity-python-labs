@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-student",
+      "appliesTo": "shared/__init__.py/student.py/",
+      "type": "launch"
+    }
+  ]
+}
